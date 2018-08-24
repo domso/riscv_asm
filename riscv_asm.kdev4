@@ -1,0 +1,3 @@
+[Project]
+Name=riscv_asm
+Manager=KDevCMakeManager
